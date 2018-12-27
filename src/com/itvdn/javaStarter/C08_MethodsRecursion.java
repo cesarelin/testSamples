@@ -20,7 +20,7 @@ public class C08_MethodsRecursion {
         System.out.println("a = " + a + ", b = " + b + ", НОД = " + calculate(a, b) + ";");
     }
 
-    // Второй вариант решения 2
+    // Второй вариант решения
 
     static int calculate2(int a, int b) {
         while (b != 0)
